@@ -55,12 +55,17 @@ The purpose of this project was to use provided data sets `Mouse_metadata.csv` a
 
 4. Created a couple of bar charts to see the usage on each of the difference drugs 
 
+![Visualization](Images/bar_chart.png "Bar Chart")
+
 5. Created a pie chart to see the split on the sex of mice
 
 6. Generated a box and whiskers plot to better understand the growth rate of tumors for the top 4 most effective drugs
 
+![Visualization](Images/box_whiskers.png "Box & Whiskers")
+
 7. Once the most effective drug was found, a line chart was to measure the performance over time.
-    
+
+![Visualization](Images/line_chart.png "Line Chart")
 
 ---
 
